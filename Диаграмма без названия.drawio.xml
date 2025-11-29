@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
+  <diagram name="Page-1" id="NWSlWJmppsfaw-QDi1di">
+    <mxGraphModel dx="1708" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-417" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Задание №1. Диаграмма деятельности (Hiring Process)" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-418" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Начало" vertex="1">
+          <mxGeometry height="39" width="78" x="430" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-419" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Руководитель отдела создает заявку" vertex="1">
+          <mxGeometry height="78" width="260" x="339" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-420" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="HR проверяет заявку" vertex="1">
+          <mxGeometry height="208" width="208" x="294" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-421" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Заявка утверждена" vertex="1">
+          <mxGeometry height="54" width="203" x="228" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-422" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Уведомление о доработке" vertex="1">
+          <mxGeometry height="54" width="254" x="481" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-423" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Публикация вакансии на сайте" vertex="1">
+          <mxGeometry height="78" width="260" x="200" y="703" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-424" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидаты подают заявки" vertex="1">
+          <mxGeometry height="54" width="254" x="203" y="831" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-425" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="HR проверяет анкеты" vertex="1">
+          <mxGeometry height="212" width="212" x="223" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-426" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Анкеты отклоняются" vertex="1">
+          <mxGeometry height="54" width="213" x="80" y="1234" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-427" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Приглашение на собеседование" vertex="1">
+          <mxGeometry height="78" width="260" x="343" y="1222" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-428" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR проводит первичное интервью" vertex="1">
+          <mxGeometry height="78" width="260" x="343" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-429" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Руководитель проводит техническое интервью" vertex="1">
+          <mxGeometry height="78" width="260" x="343" y="1478" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-430" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Оффер предложен?" vertex="1">
+          <mxGeometry height="201" width="201" x="372" y="1606" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-431" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Отказ кандидату" vertex="1">
+          <mxGeometry height="54" width="183" x="511" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-432" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидат подтверждает оффер" vertex="1">
+          <mxGeometry height="78" width="260" x="213" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-433" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система добавляет сотрудника в базу" vertex="1">
+          <mxGeometry height="78" width="260" x="213" y="2032" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-434" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="HR уведомляет IT-отдел" vertex="1">
+          <mxGeometry height="54" width="237" x="224" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-435" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Конец" vertex="1">
+          <mxGeometry height="39" width="70" x="438" y="2264" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-436" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-418" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-419" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-437" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-419" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-420" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-438" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-420" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-421" value="Соответствует">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-439" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-421" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-423" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-440" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-420" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.38;entryY=0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-422" value="Не соответствует">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="537" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-441" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-422" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0.01;entryX=0.92;entryY=1;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-419" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="562" />
+              <mxPoint x="650" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-442" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-423" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-424" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-443" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-424" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-425" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-444" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-425" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-426" value="Неподходящие">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="186" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-445" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-425" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-427" value="Подходящие">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="473" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-446" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-427" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-428" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-447" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-428" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-429" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-448" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-429" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-430" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-449" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-430" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-432" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-450" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-432" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-433" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-451" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-433" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-434" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-452" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-434" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.2;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-435" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="2239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-453" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-430" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-431" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="1843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-454" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-431" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.2;rounded=0;" target="ZI1I7zz6czhh7sKD9jM8-435" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="2239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-455" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;h3 data-start=&quot;311&quot; data-end=&quot;344&quot;&gt;&lt;br&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="540" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-456" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="500" x="110" y="2320" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p data-start=&quot;1523&quot; data-end=&quot;1559&quot;&gt;&lt;span data-start=&quot;1523&quot; data-end=&quot;1559&quot;&gt;Текстовый анализ и рекомендации:&lt;/span&gt;&lt;/p&gt;&lt;ul data-start=&quot;1561&quot; data-end=&quot;2074&quot;&gt;&lt;li data-start=&quot;1561&quot; data-end=&quot;1664&quot;&gt;&lt;p data-start=&quot;1563&quot; data-end=&quot;1664&quot;&gt;Диаграмма отражает все этапы найма: подготовка заявки, отбор кандидатов, собеседование, заключение.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;1665&quot; data-end=&quot;1754&quot;&gt;&lt;p data-start=&quot;1667&quot; data-end=&quot;1754&quot;&gt;Используются ветвления: проверка заявки, проверка анкет, успех/неуспех собеседований.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;1755&quot; data-end=&quot;1849&quot;&gt;&lt;p data-start=&quot;1757&quot; data-end=&quot;1849&quot;&gt;Параллельные действия: публикация вакансии и подача заявок могут происходить одновременно.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;1850&quot; data-end=&quot;2074&quot;&gt;&lt;p data-start=&quot;1852&quot; data-end=&quot;1880&quot;&gt;&lt;b&gt;Рекомендации по улучшению:&lt;/b&gt;&lt;/p&gt;&lt;ol data-start=&quot;1883&quot; data-end=&quot;2074&quot;&gt;&lt;li data-start=&quot;1883&quot; data-end=&quot;1940&quot;&gt;&lt;p data-start=&quot;1886&quot; data-end=&quot;1940&quot;&gt;Автоматическая проверка анкет на базовые требования.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;1943&quot; data-end=&quot;2007&quot;&gt;&lt;p data-start=&quot;1946&quot; data-end=&quot;2007&quot;&gt;Автоматическая отправка уведомлений кандидатам и IT-отделу.&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;2010&quot; data-end=&quot;2074&quot;&gt;&lt;p data-start=&quot;2013&quot; data-end=&quot;2074&quot;&gt;Использовать систему рейтингов резюме для ускорения отбора.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;" placeholders="1" name="Variable" id="ZI1I7zz6czhh7sKD9jM8-458">
+          <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1">
+            <mxGeometry height="330" width="460" x="130" y="2330" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-459" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Задание №2. Диаграмма последовательности (Booking Process)" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="2730" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-488" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Клиент" vertex="1">
+          <mxGeometry height="1243" width="150" x="30" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-489" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Система" vertex="1">
+          <mxGeometry height="1243" width="150" x="407" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-490" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="ПлатежныйШлюз" vertex="1">
+          <mxGeometry height="1243" width="150" x="653" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-491" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Администратор" vertex="1">
+          <mxGeometry height="1243" width="150" x="853" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-492" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Подрядчики" vertex="1">
+          <mxGeometry height="1243" width="150" x="1053" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-493" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Менеджер" vertex="1">
+          <mxGeometry height="1243" width="150" x="1253" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-494" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" value="par" vertex="1">
+          <mxGeometry height="196" width="668" x="471" y="3321" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-495" parent="ZI1I7zz6czhh7sKD9jM8-494" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Уведомление подрядчиков]" vertex="1">
+          <mxGeometry height="20" width="638" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-496" parent="ZI1I7zz6czhh7sKD9jM8-494" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Отчетность]" vertex="1">
+          <mxGeometry height="4" width="668" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-497" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" value="alt" vertex="1">
+          <mxGeometry height="558" width="1055" x="94" y="3119" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-498" parent="ZI1I7zz6czhh7sKD9jM8-497" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Платеж успешен]" vertex="1">
+          <mxGeometry height="20" width="1025" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-499" parent="ZI1I7zz6czhh7sKD9jM8-497" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Платеж отклонен]" vertex="1">
+          <mxGeometry height="4" width="1055" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-500" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" value="alt" vertex="1">
+          <mxGeometry height="816" width="1075" x="84" y="2969" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-501" parent="ZI1I7zz6czhh7sKD9jM8-500" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Площадка доступна]" vertex="1">
+          <mxGeometry height="20" width="1045" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-502" parent="ZI1I7zz6czhh7sKD9jM8-500" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[Площадка недоступна]" vertex="1">
+          <mxGeometry height="4" width="1075" y="723" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-503" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-488" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-489" value="Запрос доступности площадки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="2897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-504" parent="ZI1I7zz6czhh7sKD9jM8-503" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="1" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-196" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-505" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-488" value="Результат проверки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="2949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-506" parent="ZI1I7zz6czhh7sKD9jM8-505" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="2" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="182" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-507" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-488" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-489" value="Подтверждение бронирования">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="3047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-508" parent="ZI1I7zz6czhh7sKD9jM8-507" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="3" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-196" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-509" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-490" value="Запрос предоплаты">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="3099" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-510" parent="ZI1I7zz6czhh7sKD9jM8-509" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="4" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-130.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-511" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-490" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-489" value="Подтверждение оплаты">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="3197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-512" parent="ZI1I7zz6czhh7sKD9jM8-511" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="5" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="116.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-513" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-488" value="Подтверждение бронирования">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="3249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-514" parent="ZI1I7zz6czhh7sKD9jM8-513" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="6" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="182" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-515" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-491" value="Уведомление о бронировании">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="714" y="3301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-516" parent="ZI1I7zz6czhh7sKD9jM8-515" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="7" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-230.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-517" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-492" value="Задачи для выполнения">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="814" y="3399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-518" parent="ZI1I7zz6czhh7sKD9jM8-517" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="8" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-330.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-519" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-491" value="Отчет по задачам">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="714" y="3497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-520" parent="ZI1I7zz6czhh7sKD9jM8-519" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="9" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-230.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-521" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-490" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-489" value="Ошибка оплаты">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="3605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-522" parent="ZI1I7zz6czhh7sKD9jM8-521" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="10" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="116.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-523" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-488" value="Уведомление об ошибке оплаты">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="3657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-524" parent="ZI1I7zz6czhh7sKD9jM8-523" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="11" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="182" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-525" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-488" value="Предложение другой даты или площадки">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="3765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-526" parent="ZI1I7zz6czhh7sKD9jM8-525" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="12" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="182" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-527" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-488" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-489" value="Оценка сервиса">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="302" y="3876" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-528" parent="ZI1I7zz6czhh7sKD9jM8-527" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="13" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-196" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-529" edge="1" parent="1" source="ZI1I7zz6czhh7sKD9jM8-489" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ZI1I7zz6czhh7sKD9jM8-493" value="Отчет с отзывами">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="3928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-530" parent="ZI1I7zz6czhh7sKD9jM8-529" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" value="14" vertex="1">
+          <mxGeometry height="14" relative="1" width="14" as="geometry">
+            <mxPoint x="-430.5" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-531" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;" value="Завершение мероприятия" vertex="1">
+          <mxGeometry height="49" width="1273" x="80" y="3795" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-532" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="710" x="80" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-533" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" value="&lt;h6&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Текстовое описание основных взаимодействий и ветвлений&lt;br&gt;&lt;/font&gt;&lt;strong data-start=&quot;206&quot; data-end=&quot;237&quot; style=&quot;font-size: 12px;&quot;&gt;Запрос доступности площадки&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Клиент отправляет запрос системе о доступности выбранной площадки.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Система проверяет даты и наличие площадки.&lt;/span&gt;&lt;br&gt;&lt;strong data-start=&quot;363&quot; data-end=&quot;376&quot; style=&quot;font-size: 12px;&quot;&gt;Ветвление&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Если площадка доступна → клиент получает информацию о стоимости и условиях.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Если площадка недоступна → клиенту предлагается выбрать другую дату или площадку.&lt;/span&gt;&lt;br&gt;&lt;strong data-start=&quot;554&quot; data-end=&quot;584&quot; style=&quot;font-size: 12px;&quot;&gt;Подтверждение бронирования&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Клиент подтверждает выбор площадки.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Система отправляет запрос на предоплату через платежный шлюз.&lt;/span&gt;&lt;br&gt;&lt;strong data-start=&quot;698&quot; data-end=&quot;711&quot; style=&quot;font-size: 12px;&quot;&gt;Ветвление&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Платеж успешен → бронирование подтверждается, уведомления отправляются клиенту и администратору.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Платеж отклонен → клиенту отправляется уведомление об ошибке оплаты с предложением повторить попытку.&lt;/span&gt;&lt;br&gt;&lt;strong data-start=&quot;930&quot; data-end=&quot;957&quot; style=&quot;font-size: 12px;&quot;&gt;Организация мероприятия&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Администратор площадки подготавливает список задач (декорации, оборудование, еда).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Система уведомляет подрядчиков о задачах.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Подрядчики подтверждают выполнение задач.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Система отправляет отчет администратору.&lt;/span&gt;&lt;br&gt;&lt;strong data-start=&quot;1190&quot; data-end=&quot;1216&quot; style=&quot;font-size: 12px;&quot;&gt;Завершение мероприятия&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;После проведения мероприятия клиент оценивает качество сервиса.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Система собирает отзывы и отправляет отчет менеджеру.&lt;/span&gt;&lt;/font&gt;&lt;/h6&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="440" width="680" x="100" y="4090" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-539" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&amp;lt;br/&amp;gt;line-height:normal;mso-outline-level:2&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:18.0pt;&amp;lt;br/&amp;gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-fareast-language:RU&quot;&gt;3. Анализ узких мест процесса и рекомендации&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;table class=&quot;MsoNormalTable&quot; border=&quot;0&quot; cellspacing=&quot;3&quot; cellpadding=&quot;0&quot; style=&quot;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184&quot;&gt; &lt;thead&gt;  &lt;tr style=&quot;mso-yfti-irow:0;mso-yfti-firstrow:yes&quot;&gt;   &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;   &lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;&amp;lt;br/&amp;gt;   text-align:center;line-height:normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;   font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;   mso-fareast-language:RU&quot;&gt;Узкое место&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;br&gt;   &lt;/td&gt;   &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;   &lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;&amp;lt;br/&amp;gt;   text-align:center;line-height:normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;   font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;   mso-fareast-language:RU&quot;&gt;Возможные проблемы&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;br&gt;   &lt;/td&gt;   &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;   &lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;&amp;lt;br/&amp;gt;   text-align:center;line-height:normal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;   font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;   mso-fareast-language:RU&quot;&gt;Рекомендации&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;br&gt;   &lt;/td&gt;  &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;&lt;tr style=&quot;mso-yfti-irow:1&quot;&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Проверка&lt;br&gt;  доступности площадки&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Возможны&lt;br&gt;  задержки при большом количестве запросов&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Внедрить&lt;br&gt;  кэширование доступных площадок и асинхронную обработку запросов&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;mso-yfti-irow:2&quot;&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Обработка&lt;br&gt;  платежей&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Ошибки или&lt;br&gt;  задержки платежного шлюза&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Добавить&lt;br&gt;  повторные попытки и резервный шлюз&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;mso-yfti-irow:3&quot;&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Уведомление&lt;br&gt;  подрядчиков&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Несвоевременные&lt;br&gt;  уведомления могут задержать выполнение задач&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Использовать&lt;br&gt;  push-уведомления и подтверждение получения сообщений&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;mso-yfti-irow:4;mso-yfti-lastrow:yes&quot;&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Сбор&lt;br&gt;  отзывов&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Низкая&lt;br&gt;  активность клиентов&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt;  &lt;td style=&quot;padding:.75pt .75pt .75pt .75pt&quot;&gt;&lt;br&gt;  &lt;p class=&quot;MsoNormal&quot; style=&quot;margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;lt;br/&amp;gt;  normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;  mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-language:RU&quot;&gt;Внедрить&lt;br&gt;  автоматические напоминания и бонусы за оставленные отзывы&lt;/span&gt;&lt;/p&gt;&lt;br&gt;  &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="530" width="950" x="84" y="4570" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-540" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h2 data-start=&quot;2049&quot; data-end=&quot;2090&quot;&gt;4. Алгоритм процесса бронирования (C#)&lt;/h2&gt;&#xa;&lt;pre class=&quot;overflow-visible!&quot; data-start=&quot;2092&quot; data-end=&quot;2731&quot;&gt;&lt;div class=&quot;contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary&quot;&gt;&lt;div class=&quot;sticky top-9&quot;&gt;&lt;div class=&quot;absolute end-0 bottom-0 flex h-9 items-center pe-2&quot;&gt;&lt;div class=&quot;bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;overflow-y-auto p-4&quot; dir=&quot;ltr&quot;&gt;&lt;code class=&quot;whitespace-pre! language-csharp&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;class&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-title&quot;&gt;BookingSystem&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;{&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-built_in&quot;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-title&quot;&gt;CheckAvailability&lt;/span&gt;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-params&quot;&gt;DateTime date, &lt;span class=&quot;hljs-built_in&quot;&gt;string&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; venue) &#xa;    {&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// Проверка доступности площадки&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;return&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-literal&quot;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span&gt;; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// упрощено для примера&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;    }&#xa;&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-built_in&quot;&gt;bool&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-title&quot;&gt;ProcessPayment&lt;/span&gt;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-built_in&quot;&gt;decimal&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; amount) &#xa;    {&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// Отправка запроса на оплату&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;return&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-literal&quot;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;span&gt;; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// платеж успешен&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;    }&#xa;&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-title&quot;&gt;NotifyAdmin&lt;/span&gt;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-built_in&quot;&gt;string&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; message) &#xa;    {&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// Уведомление администратора&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;        Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Admin: &quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; + message);&#xa;    }&#xa;&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;public&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;void&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-title&quot;&gt;NotifyContractors&lt;/span&gt;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-params&quot;&gt;&lt;span class=&quot;hljs-built_in&quot;&gt;string&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; task) &#xa;    {&#xa;        &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// Уведомление подрядчиков&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;        Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Contractor task: &quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; + task);&#xa;    }&#xa;}&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="490" width="450" x="84" y="5110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI1I7zz6czhh7sKD9jM8-541" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h2 data-start=&quot;2738&quot; data-end=&quot;2777&quot;&gt;5. Пример процесса бронирования (C#)&lt;/h2&gt;&#xa;&lt;pre class=&quot;overflow-visible!&quot; data-start=&quot;2779&quot; data-end=&quot;3517&quot;&gt;&lt;div class=&quot;contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary&quot;&gt;&lt;div class=&quot;sticky top-9&quot;&gt;&lt;div class=&quot;absolute end-0 bottom-0 flex h-9 items-center pe-2&quot;&gt;&lt;div class=&quot;bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;overflow-y-auto p-4&quot; dir=&quot;ltr&quot;&gt;&lt;code class=&quot;whitespace-pre! language-csharp&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;var&lt;/span&gt;&lt;/span&gt;&lt;span&gt; system = &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt;&lt;/span&gt;&lt;span&gt; BookingSystem();&#xa;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;var&lt;/span&gt;&lt;/span&gt;&lt;span&gt; clientDate = DateTime.Today.AddDays(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-number&quot;&gt;7&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;var&lt;/span&gt;&lt;/span&gt;&lt;span&gt; venue = &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Main Hall&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;;&#xa;&#xa;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// 1. Проверка доступности&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt;&lt;/span&gt;&lt;span&gt; (system.CheckAvailability(clientDate, venue))&#xa;{&#xa;    Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Площадка доступна. Подтверждение бронирования.&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-comment&quot;&gt;// 2. Оплата&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;if&lt;/span&gt;&lt;/span&gt;&lt;span&gt; (system.ProcessPayment(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-number&quot;&gt;500&lt;/span&gt;&lt;/span&gt;&lt;span&gt;))&#xa;    {&#xa;        Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Оплата успешна. Бронирование подтверждено.&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;        system.NotifyAdmin(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Бронирование подтверждено для &quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt; + venue);&#xa;        system.NotifyContractors(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Подготовить задачи для мероприятия&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;    }&#xa;    &lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;    {&#xa;        Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Ошибка оплаты. Пожалуйста, повторите платеж.&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;    }&#xa;}&#xa;&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;else&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&#xa;{&#xa;    Console.WriteLine(&lt;/span&gt;&lt;span&gt;&lt;span class=&quot;hljs-string&quot;&gt;&quot;Площадка недоступна. Выберите другую дату или площадку.&quot;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;);&#xa;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="470" width="560" x="557" y="5100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
